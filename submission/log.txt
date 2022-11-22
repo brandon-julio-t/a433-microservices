@@ -1,0 +1,5 @@
+$ docker compose up -d
+[+] Running 3/3
+ - Network a433-microservices_default       Created                                                                                                                                                         0.8s
+ - Container a433-microservices-item-db-1   Started                                                                                                                                                         1.3s
+ - Container a433-microservices-item-app-1  Started                                                                                                                                                         2.6s
